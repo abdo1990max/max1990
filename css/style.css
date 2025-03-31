@@ -13,7 +13,7 @@
  .div1{
     width: 100%;
     height: 100vh;
-    background-image: url(..//style/images/wallpaperflare.com_wallpaper.jpg);
+    background-image: url(..//images/wallpaperflare.com_wallpaper.jpg);
     position: relative;
   background-size: cover;
  }
@@ -611,7 +611,7 @@ font-size: 40px;
 .sec6parent{
     width: 100%;
     height: 400px;
-    background-image: url(../style/images/abstract-background-blue-board.jpg);
+    background-image: url(../images/abstract-background-blue-board.jpg);
     position: relative;
     background-size: cover;
     background-attachment: fixed;
@@ -743,7 +743,7 @@ color: rgb(172, 154, 122) ;
 .parent-about{
     width: 100%;
     height: 400px;
-    background-image: url(../style/images/5657665.jpeg);
+    background-image: url(../images/5657665.jpeg);
     position: relative;
     background-size: cover;
     background-attachment: fixed;
