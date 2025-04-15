@@ -1025,7 +1025,7 @@ border-radius: 10px;
 .ul-footer p{
 font-size: 13px;
 text-transform: uppercase;
-color: rgb(189, 186, 186);
+color: rgba(237, 229, 229, 0.255);
 padding-top: 10px;
 }
 .ul-footer ul li:after{
@@ -1041,7 +1041,7 @@ padding-top: 10px;
     border-radius: 10px;
 }
 .ul-footer ul li:hover{
-background-color: #937f70;
+background-color: a8a399;
 transition: 0.5s;
 }
 
